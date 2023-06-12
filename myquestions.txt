@@ -1,0 +1,11 @@
+Q: Is it an animal?
+Q: Can you ride it?
+Q: Is it from Africa?
+Q: Is it a carnivore? 
+Q: Is it really fast?
+A: Cheeta
+A: Lion
+A: Elephant
+A: Horse
+A: Dog
+A: Computer
